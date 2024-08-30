@@ -11,23 +11,24 @@ public class arrdiemhoten {
         for(int i = 0; i < n; i++) {
             System.out.print("Enter the name of student: ");
             names[i] = sc.next();
-            System.out.print("Enter the student's grade: ");
+            System.out.print("Enter the grade of student: ");
             points[i] = sc.nextFloat();
         }
-        //  sắp xếp mảng điểm
+        //  sắp xếp keps
+
         for (int i = 0; i < n - 1; i++) {
             for (int j = i+1; j < n; j++) {
                 if (points[i] > points[j]) {
                     float temp = points[j];
+                    String tempString = names[j];
+
+                    //Sap xep noi bot mang diem
                     points[j] = points[i];
                     points[i] = temp;
-                }
-            }
-            for (int j = i+1; j < n; j++) {
-                if (points[j] > points[i]) {
-                    String temp = names[j];
+
+                    //Sap xep noi bot mang ten
                     names[j] = names[i];
-                    names[i] = temp;
+                    names[i] = tempString;
                 }
             }
         }
