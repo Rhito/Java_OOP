@@ -8,6 +8,32 @@ public class NhanVien {
     public long heSoluong, luongThucLinh;
     NhanVien[] lstNv;
 
+//    public int getN() {
+//        return n;
+//    }
+//    public void setN(int n) {
+//        this.n = n;
+//    }
+//    public int getMaNhanVien() {
+//        return maNhanVien;
+//    }
+//    public void setMaNhanVien(int maNhanVien) {
+//        this.maNhanVien = maNhanVien;
+//
+//    }
+//    public String getHoTen() {
+//        return hoTen;
+//    }
+//    public void setHoTen(String hoTen) {
+//        this.hoTen = hoTen;
+//    }
+//    public long getHeSoluong() {
+//        return heSoluong;
+//    }
+//    public void setHeSoluong(long heSoluong) {
+//        this.heSoluong = heSoluong;
+//    }
+
     // Constructor cho class NhanVien
     public NhanVien() {}
 
