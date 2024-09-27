@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/BaiTapTongHop_Class-inhe-poly/BaiTapTongHop_Class-inhe-poly.iml" filepath="$PROJECT_DIR$/BaiTapTongHop_Class-inhe-poly/BaiTapTongHop_Class-inhe-poly.iml" />
+      <module fileurl="file://$PROJECT_DIR$/BaiTapTongHop_Class-inhe-poly/src/BaiTapTongHop_Class-inhe-poly2.iml" filepath="$PROJECT_DIR$/BaiTapTongHop_Class-inhe-poly/src/BaiTapTongHop_Class-inhe-poly2.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Buoi04/Buoi04.iml" filepath="$PROJECT_DIR$/Buoi04/Buoi04.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Buoi05/Buoi05.iml" filepath="$PROJECT_DIR$/Buoi05/Buoi05.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Buoi07/Buoi07.iml" filepath="$PROJECT_DIR$/Buoi07/Buoi07.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/OOP.iml" filepath="$PROJECT_DIR$/.idea/OOP.iml" />
+      <module fileurl="file://$PROJECT_DIR$/QLSV/QLSV.iml" filepath="$PROJECT_DIR$/QLSV/QLSV.iml" />
+      <module fileurl="file://$PROJECT_DIR$/TLNV/TLNV.iml" filepath="$PROJECT_DIR$/TLNV/TLNV.iml" />
+    </modules>
+  </component>
+</project>

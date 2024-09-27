@@ -1,4 +1,12 @@
 package bai04;
 
-public class Square {
+import java.awt.*;
+
+public class Square extends Rectangle {
+    public Square(){
+        super();
+    }
+    public Square(int width){
+        super(width, width);
+    }
 }
